@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Care Repair",
+    "description":"In communications or computer systems"
+    
+  },
+  {
+    "id": 2,
+    "name": "Sear Repair",
+    "description":"In communications or computer systems",
+    "image":"f_6611.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Here Repair",
+    "description":"In communications or computer systems"
+  }
+   ]

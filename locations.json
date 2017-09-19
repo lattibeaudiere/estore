@@ -1,0 +1,33 @@
+           [
+            {
+            "id": 1,
+            "name":"Ryan Location",
+            "street_address":"1913 Ryan St",
+            "city":"Amitville",
+            "state":"NY",
+            "zip":"18610",
+            "number":"777-777-7777"
+            },
+            
+            {
+            "id": 2,
+            "name":"Kevin Location",
+            "street_address":"1213 Kevin St",
+            "city":"Amitville",
+            "state":"NY",
+            "zip":"11710",
+            "number":"227-327-7777"
+            },
+            
+            {
+            "id": 3,
+            "name":"Barry Location",
+            "street_address":"913 Barry St",
+            "city":"Amitville",
+            "state":"NY",
+            "zip":"34910",
+            "number":"677-577-8877"
+            }
+
+           
+          ]
